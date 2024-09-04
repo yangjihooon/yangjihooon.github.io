@@ -23,7 +23,7 @@ future                   : true
 published                : true
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "양지훈"
-description              : "대학원 가고 싶다"
+# description              : "대학원 가고 싶다"
 url                      : "https://yangjihooon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -135,7 +135,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/yangjihooon"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
