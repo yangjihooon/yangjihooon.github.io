@@ -22,8 +22,8 @@ title_separator          : "-"
 future                   : true
 published                : true
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "양지훈"
-# description              : "대학원 가고 싶다"
+#name                     : 
+# description             : 
 url                      : "https://yangjihooon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -118,8 +118,8 @@ author:
   name             : "Yang Ji Hoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   #bio              : ""
-  location         : "South Korea"
-  email            :
+  #location         : "South Korea"
+  email            : "ygh1238@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
